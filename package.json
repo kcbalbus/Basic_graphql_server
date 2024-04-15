@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.10.2",
+    "axios": "^1.6.8",
+    "graphql": "^16.8.1",
+    "nodemon": "^3.1.0"
+  }
+}
